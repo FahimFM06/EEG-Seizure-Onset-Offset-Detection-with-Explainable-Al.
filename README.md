@@ -63,7 +63,7 @@ Ensure **Python 3.x** is installed.
 
 Install required dependencies:
 
-```bash
+
 pip install numpy==1.24.0 \
              pandas==1.5.3 \
              scipy==1.9.3 \
